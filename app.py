@@ -85,4 +85,3 @@ if st.session_state.expenses:
         st.info("目前帳目平衡，無須轉帳。")
     else:
         results = []
-        d
